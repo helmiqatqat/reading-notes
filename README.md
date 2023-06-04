@@ -24,10 +24,10 @@ Table of contents                                                               
 ### What is NPM?
 
 **What version of npm are you running on your machine?**
-- v18.15.0
+-  `v18.15.0`
 
 **What command would you type to install a library/package called ‘jshint’ into your node project?**
-- npm install jshint
+- `npm install jshint`
 
 <br>
 
