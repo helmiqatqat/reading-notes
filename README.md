@@ -1,3 +1,8 @@
+Table of contents                                                                                                                  | 
+-----------------------------------------------------------------------------------------------------------------------| 
+[Code 401 - Reading Class - 02](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---02) |
+[Code 401 - Reading Class - 01](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---01) |
+
 # Code 401 - Reading Class - 02
 
 ### An introduction to NodeJS and Express
