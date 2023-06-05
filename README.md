@@ -1,7 +1,17 @@
-Table of contents                                                                                                                  | 
------------------------------------------------------------------------------------------------------------------------| 
+Table of contents                                                                                                      | 
+-----------------------------------------------------------------------------------------------------------------------|
+[Data Structures and Algorithms](https://github.com/Helmi-Qatqat/reading-notes/tree/main#prep-data-structures-and-algorithms)|
 [Code 401 - Reading Class - 02](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---02) |
 [Code 401 - Reading Class - 01](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---01) |
+
+
+# Data Structures and Algorithms
+**What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
+
+- The time complexity: The time complexity should be considered of the operations that we will be performing on the data. For example, if we need to perform frequent insertions or deletions, then we should choose a data structure that has a fast insertion or deletion time.
+
+**How can we ensure that we’ll avoid an infinite recursive call stack?**
+- By simply adding the base-case that will stop the call stack.
 
 # Code 401 - Reading Class - 02
 
