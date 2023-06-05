@@ -1,6 +1,6 @@
 Table of contents                                                                                                      | 
 -----------------------------------------------------------------------------------------------------------------------|
-[Data Structures and Algorithms](https://github.com/Helmi-Qatqat/reading-notes/tree/main#prep-data-structures-and-algorithms)|
+[Data Structures and Algorithms](https://github.com/Helmi-Qatqat/reading-notes/tree/main#data-structures-and-algorithms)|
 [Code 401 - Reading Class - 02](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---02) |
 [Code 401 - Reading Class - 01](https://github.com/Helmi-Qatqat/reading-notes/tree/main#code-401---reading-class---01) |
 
