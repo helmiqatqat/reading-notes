@@ -1,5 +1,6 @@
 Table of contents                                       | 
 |-------------------------------------------------------|
+|[Code 401 - Authentication](./Notes/Authentication.md) |
 |[Code 401 - Reading Class - 03](./Notes/Class-03.md)   |
 |[Reading Class - Linked lists](./Notes/Linked-lists.md)|
 |[Code 401 - Reading Class - 02](./Notes/Class-02.md)   |
