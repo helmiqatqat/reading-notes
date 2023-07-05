@@ -1,5 +1,6 @@
 Table of contents                                       | 
 |-------------------------------------------------------|
+|[Code 401 - Socket.io](./Notes/socketio.md) |
 |[Code 401 - Reading Class - 09](./Notes/Class-09.md) |
 |[Code 401 - ACL](./Notes/ACL.md) |
 |[Code 401 - Bearer Authorization](./Notes/BearerAuthorization.md) |
