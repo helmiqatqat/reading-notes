@@ -1,5 +1,6 @@
 Table of contents                                       | 
 |-------------------------------------------------------|
+|[Code 401 - Reading Class - 14](./Notes/Class-14.md) |
 |[Code 401 - Reading Class - 13](./Notes/Class-13.md) |
 |[Code 401 - Socket.io](./Notes/socketio.md) |
 |[Code 401 - Reading Class - 11](./Notes/Class-11.md)|
