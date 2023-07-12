@@ -1,10 +1,11 @@
 Table of contents                                       | 
 |-------------------------------------------------------|
+|[Code 401 - Reading Class - 15](./Notes/trees/Class-15.md) |
 |[Code 401 - Reading Class - 14](./Notes/Class-14.md) |
 |[Code 401 - Reading Class - 13](./Notes/Class-13.md) |
 |[Code 401 - Socket.io](./Notes/socketio.md) |
 |[Code 401 - Reading Class - 11](./Notes/Class-11.md)|
-|[Code 401 - Stacks and Queues](./Notes/stacks-and-queues.md)|
+|[Code 401 - Stacks and Queues](./Notes/stack-and-queues/stacks-and-queues.md)|
 |[Code 401 - Reading Class - 09](./Notes/Class-09.md) |
 |[Code 401 - ACL](./Notes/ACL.md) |
 |[Code 401 - Bearer Authorization](./Notes/BearerAuthorization.md) |
