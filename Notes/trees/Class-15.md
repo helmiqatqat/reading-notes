@@ -3,7 +3,9 @@
 |Table of contents|
 |-----------------|
 |[Common Terminology](#common-terminology)|
-|
+|[Traversals](#Traversals)|
+|[K-ary Trees](#k-ary-trees)|
+|[Binary Search Trees](#binary-search-trees)|
 
 ## Common Terminology
 
