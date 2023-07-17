@@ -1,5 +1,6 @@
 Table of contents                                       | 
 |-------------------------------------------------------|
+|[Code 401 - Reading Class - 17](./Notes/trees/Class-17.md) |
 |[Code 401 - Reading Class - 16](./Notes/trees/Class-16.md) |
 |[Code 401 - Reading Class - 15](./Notes/trees/Class-15.md) |
 |[Code 401 - Reading Class - 14](./Notes/Class-14.md) |
