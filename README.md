@@ -1,7 +1,10 @@
-Table of contents                                       | 
+# Reading Notes
+
+|Table of contents                                      |
 |-------------------------------------------------------|
-|[Code 401 - Reading Class - 17](./Notes/trees/Class-17.md) |
-|[Code 401 - Reading Class - 16](./Notes/trees/Class-16.md) |
+|[Code 401 - Reading Class - 18](./Notes/Class-18.md) |
+|[Code 401 - Reading Class - 17](./Notes/Class-17.md) |
+|[Code 401 - Reading Class - 16](./Notes/Class-16.md) |
 |[Code 401 - Reading Class - 15](./Notes/trees/Class-15.md) |
 |[Code 401 - Reading Class - 14](./Notes/Class-14.md) |
 |[Code 401 - Reading Class - 13](./Notes/Class-13.md) |
