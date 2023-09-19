@@ -2,6 +2,7 @@
 
 |Table of contents                                      |
 |-------------------------------------------------------|
+|[Code 401 - Reading Class - 39](./Notes/Class-39.md) |
 |[Code 401 - Reading Class - 38](./Notes/Class-38.md) |
 |[Code 401 - Reading Class - 37](./Notes/Class-37.md) |
 |[Code 401 - Reading Class - 36](./Notes/Class-36.md) |
